@@ -1,5 +1,5 @@
 #Requires -RunAsAdministrator
-
+ 
 # ---- BEGIN NUKE DEFENDER FUNCTION 
 function nukedefender {
     $ErrorActionPreference = "SilentlyContinue"  
